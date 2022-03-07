@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning k8s, bash, python, git, jenkins, maven, java, gcp, .net, potsman, api, mongo, redhat, openshift, ansible, nginx, ssh, helm, coreos, css, systemd, sql, kvm, docker, gatsby, ci/cd ...
-
+- 🌱 I’m currently learning k8s, bash, python, git, jenkins, maven, java, gcp, .net, potsman, api, mongo, redhat, openshift, ansible, nginx, ssh, helm, coreos, css, systemd, sql, kvm, docker, gatsby, ci/cd, go ...
+^
 <!--
 **jvrdms/jvrdms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
